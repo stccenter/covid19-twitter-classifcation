@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-22 14:34:53
- * @LastEditTime: 2020-10-22 15:02:14
+ * @LastEditTime: 2020-10-22 15:03:40
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \covid19-twitter-classifcation\README.md
@@ -17,8 +17,8 @@
 
 ## How to set up the python environment and install packages?
     1. Clone code by clinking on the download button 
-    [<img src="https://github.com/stccenter/covid19-twitter-classifcation/blob/master/clone%20button.png">]
-    [<img src="https://github.com/stccenter/COVID-19/blob/master/analysis/CA%20-%20Air%20Pollution/Screenshot%20for%20video.png" width="60%">]
+    <img src="https://github.com/stccenter/covid19-twitter-classifcation/blob/master/clone%20button.png">
+   
     
     2. Open the project folder with your choice of python IDE
     3. Execute below comment to install required python packages.
