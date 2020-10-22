@@ -1,19 +1,15 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-22 14:34:53
- * @LastEditTime: 2020-10-22 15:07:37
+ * @LastEditTime: 2020-10-22 15:10:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \covid19-twitter-classifcation\README.md
 -->
 ## What are the software requirement?   
-    1. Python IDE 
-    2. Numpy
-    3. Pandas
-    4. gensim
-    5. keras
-    6. nltk 
-    7. sklearn
+1. Python IDE 
+2. Anaconda 3
+3. Microsoft Excel
 
 ## How to set up the python environment and install packages?
 1. Clone code by clinking on the download button 
@@ -27,6 +23,7 @@
 ```
 ## Where to download the data ?
 1. "GoogleNews-vectors-negative300.bin" online as word-embedding. https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+2. Twitter API: https://developer.twitter.com/en
 
 ## How to get the results? 
 1. Run "total_classification.py" with the csv data with the input column "tweet_text" and "category_id", where "tweet_text" is the tweet content will be trained and "category_id" is the category each tweets is labeled.

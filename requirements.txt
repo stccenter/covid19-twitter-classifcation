@@ -1,0 +1,6 @@
+Numpy
+Pandas
+gensim
+keras
+nltk 
+sklearn
