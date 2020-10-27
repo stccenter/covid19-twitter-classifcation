@@ -4,3 +4,4 @@ gensim
 keras
 nltk 
 sklearn
+tensorflow
