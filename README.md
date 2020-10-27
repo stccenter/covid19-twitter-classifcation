@@ -28,7 +28,9 @@
 2. Line 93 "model.add(Dense(8))" is how many categories does the labeling have, change the input value accordingly.
 3. Run the "total_classification.py" with the data will output a directory called "model_save", which will have three components of the model.
 4. Run "model_prediction.py" to use the model saved in "model_save" directory, which will output the predication of tweeter content.
+
                 a. Create a directory named 'data' to hold the input csv file.
+                
                 b. Create a directory named 'result' to save the output csv file.
 
 ## Tutorial Video
