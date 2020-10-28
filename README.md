@@ -33,4 +33,5 @@
                 
                 b. Create a directory named 'result' to save the output csv file.
 
-## Tutorial Video
+## Tutorial Video <br/>
+[<img src="https://github.com/stccenter/covid19-twitter-classifcation/blob/master/Twittervideo.PNG" width="60%">](https://youtu.be/VnqlaCJP7D8)
